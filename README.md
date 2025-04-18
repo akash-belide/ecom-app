@@ -1,6 +1,9 @@
 # Ecom-App
 
+
 A lightweight Spring Boot backend for managing an e-commerce product catalog. This RESTful service supports CRUD operations on products, image uploads, and keyword-based search. Ideal as a backend foundation for an online store or as a learning project for Spring Boot, Spring Data JPA, and REST API development.
+> ⚙️ **Spring Boot Frontend**: The corresponding React app is available at [https://github.com/akash-belide/ecom-app](https://github.com/akash-belide/ecom-app-frontend).
+
 
 ## Table of Contents
 - [Features](#features)
